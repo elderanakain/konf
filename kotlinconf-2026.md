@@ -1,4 +1,8 @@
-# KotlinConf 2026 - Session Notes
+---
+layout: default
+title: KotlinConf 2026
+nav_order: 1
+---
 
 Munich, 20-22 May 2026, 100 speakers, 108 sessions, ~2,200 attendees.
 
