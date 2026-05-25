@@ -4,6 +4,8 @@ title: KotlinConf 2026
 nav_order: 1
 ---
 
+# KotlinConf 2026
+
 Munich, 20-22 May 2026, 100 speakers, 108 sessions, ~2,200 attendees.
 
 ---
@@ -181,7 +183,7 @@ JetBrains keynote recap: https://blog.jetbrains.com/kotlin/2026/05/kotlinconf26-
 
 ### Sony's KMP Journey: Scaling BLE & Hardware with Kotlin Multiplatform
 
-> Sergio Carrilho (Sony). "Go behind the scenes of Sony's six-year journey from an early, risky experiment with Kotlin Multiplatform to the global success of the Sony | Sound Connect app. From high-speed BLE and background execution to migrating from React Native to Compose Multiplatform, this talk explores technical trade-offs, stakeholder skepticism, and hard-earned architectural lessons."
+> Sergio Carrilho (Sony). "Go behind the scenes of Sony's six-year journey from an early, risky experiment with Kotlin Multiplatform to the global success of the Sony \| Sound Connect app. From high-speed BLE and background execution to migrating from React Native to Compose Multiplatform, this talk explores technical trade-offs, stakeholder skepticism, and hard-earned architectural lessons."
 
 - KMP first, then Compose Multiplatform.
 
