@@ -6,6 +6,8 @@ nav_order: 2
 
 # KotlinConf 2025
 
+![KotlinConf 2025 opening keynote — Kirill Skrygan]({{ "/assets/kotlinconf-2025.jpg" | relative_url }})
+
 Copenhagen, 21-23 May 2025.
 
 ---

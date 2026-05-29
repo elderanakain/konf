@@ -6,6 +6,8 @@ nav_order: 3
 
 # KotlinConf 2023
 
+![KotlinConf 2023 — Beurs van Berlage, Amsterdam]({{ "/assets/kotlinconf-2023.jpg" | relative_url }})
+
 Amsterdam, 13-14 April 2023. [Full playlist of recordings](https://www.youtube.com/playlist?list=PLlFc5cFwUnmwcJ7ZXyMmS70A9QFyUu1HI).
 
 ---

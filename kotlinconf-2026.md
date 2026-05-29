@@ -6,6 +6,8 @@ nav_order: 1
 
 # KotlinConf 2026
 
+![KotlinConf 2026 opening keynote stage]({{ "/assets/kotlinconf-2026.jpg" | relative_url }})
+
 Munich, 20-22 May 2026, 100 speakers, 108 sessions, ~2,200 attendees.
 
 ---
